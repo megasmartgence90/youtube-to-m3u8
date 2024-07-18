@@ -81,9 +81,9 @@
             "url": "https://www.aspor.com.tr/webtv/canli-yayin"
         },
         {
-            "name": "Alvin ovcu",
-            "slug": "Alvin ovcu",
-            "url": "http://catcast.tv/AlvinOvcu/"
+            "name": "FB TV",
+            "slug": "FB TV",
+            "url": "https://www.dailymotion.com/video/x21oo10"
         },
         {
             "name": "Show TV",
@@ -96,20 +96,114 @@
             "url": "https://www.kanald.com.tr/canli-yayin"
         },
         {
-            "name": "ATV TURK",
-            "slug": "ATV TURK",
-            "url": "https://www.atv.com.tr/canli-yayin"
+            "name": "Kemal Sunal",
+            "slug": "Kemal Sunal",
+            "url": "https://www.youtube.com/@kemalsunalfilmleri/live"
         },
         {
             "name": "KURTLAR VADISI PUSU",
             "slug": "KURTLAR VADISI PUSU",
-            "url": "https://www.youtube.com/@KurtlarVadisi/live"        
+            "url": "https://www.youtube.com/@KurtlarVadisi"        
         },
         {
-            "name": "imamhussein3",
-            "slug": "imamhussein3",
-            "url": "https://imamhussein3.tv/live/"
-        
+            "name": "Kanal 7 Avrupa",
+            "slug": "kanal7avrupa",
+            "url": "https://www.dailymotion.com/video/x8863vn"
+        },
+        {
+            "name": "ArzFilim",
+            "slug": "ArzuFilim",
+            "url": "https://www.youtube.com/@arzufilm1964/live"
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "startv",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": "LINK"
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""       
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": ""
+        },
+        {
+            "name": "",
+            "slug": "",
+            "url": "" 
         }
     ]
 }
