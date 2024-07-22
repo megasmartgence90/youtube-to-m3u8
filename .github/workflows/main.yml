@@ -3,7 +3,7 @@ name: run main.py
 on:
   workflow_dispatch:
   schedule:
-    - cron: '0/10 * * * *'
+    - cron: '0/60 * * * *'
   pull_request:
       branches:
         - main
