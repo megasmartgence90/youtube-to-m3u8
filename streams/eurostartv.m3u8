@@ -1,8 +1,8 @@
 #EXTM3U
 #EXT-X-VERSION:3
 #EXT-X-STREAM-INF:BANDWIDTH=3100000,CODECS="",RESOLUTION=1920x1080
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b3128000.m3u8?st=2fmhO0TYz5sP6M53M256mg&e=1723667314
+http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b3128000.m3u8?st=vCAXNhWLgJW8t1hbj43K0A&e=1723670800
 #EXT-X-STREAM-INF:BANDWIDTH=1600000,CODECS="",RESOLUTION=1280x720
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1628000.m3u8?st=2fmhO0TYz5sP6M53M256mg&e=1723667314
+http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1628000.m3u8?st=vCAXNhWLgJW8t1hbj43K0A&e=1723670800
 #EXT-X-STREAM-INF:BANDWIDTH=1000000,CODECS="",RESOLUTION=854x480
-http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1028000.m3u8?st=2fmhO0TYz5sP6M53M256mg&e=1723667314
+http://mn-nl.mncdn.com/dogusdyg_eurostar/dogusdyg_eurostar.smil/chunklist_b1028000.m3u8?st=vCAXNhWLgJW8t1hbj43K0A&e=1723670800
