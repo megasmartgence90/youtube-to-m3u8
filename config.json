@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "moskva24",
-            "slug": "moskva24",
-            "url": "https://www.m24.ru/live"
+            "name": "a2tv",
+            "slug": "a2tv",
+            "url": "https://www.atv.com.tr/a2tv/canli-yayin/live"
         },
         {
             "name": "BAKU-TV",
