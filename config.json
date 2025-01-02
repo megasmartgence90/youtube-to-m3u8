@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "a2tv",
-            "slug": "a2tv",
-            "url": "https://www.aspor.com.tr/canli-yayin-a2tv.html"
+            "name": "now",
+            "slug": "now",
+            "url": "https://www.nowtv.com.tr/canli-yayin"
         },
         {
             "name": "BAKU-TV",
