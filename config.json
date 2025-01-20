@@ -6,9 +6,9 @@
     },
     "channels": [
         {
-            "name": "now",
-            "slug": "now",
-            "url": "https://www.nowtv.com.tr/canli-yayin"
+            "name": "start",
+            "slug": "start",
+            "url": "https://yoda.az/"
         },
         {
             "name": "BAKU-TV",
